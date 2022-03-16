@@ -1,0 +1,3 @@
+--require @babel/register
+--require ./module/framework/TestProvider.js
+--require babel-polyfill
