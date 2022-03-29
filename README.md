@@ -5,7 +5,7 @@
 ## Description
 
 This project is the server-side backend for the SyncUp application. <br/>
-It is a single page application that allows users to sync data between web apps. <br/?
+It is a single page application that allows users to sync data between web apps. <br/>
 This is not a finished product, but a work in progress.
 
 ## Stack Used
